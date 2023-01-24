@@ -1,0 +1,32 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: blueviolet;
+    font-style: inherit;
+    background-color: rosybrown;
+}
+
+p {
+    color: black;
+    font-size: 30px;
+}
+
+#nav {
+    font-size: 30px;
+}
+body {
+    background-image: url(../images/bird.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.cat_image {
+    width: 250px;
+    height: 170px;
+}
+h5 {
+    font-size: 30px;
+}
+
+
