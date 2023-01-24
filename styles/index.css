@@ -1,8 +1,9 @@
 h1 {
-    font-size: 40px;
+    font-size: 50px;
     text-align: center;
     color: blueviolet;
-    font-style: oblique;
+    font-style: inherit;
+    background-color: rosybrown;
 }
 
 p {
